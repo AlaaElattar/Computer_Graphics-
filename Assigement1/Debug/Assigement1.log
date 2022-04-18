@@ -1,0 +1,7 @@
+﻿  Assigement1.cpp
+C:\Users\Aya-pc\Desktop\Graphics\Assigement1\Assigement1\Assigement1.cpp(35,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aya-pc\Desktop\Graphics\Assigement1\Assigement1\Assigement1.cpp(36,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aya-pc\Desktop\Graphics\Assigement1\Assigement1\Assigement1.cpp(54,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aya-pc\Desktop\Graphics\Assigement1\Assigement1\Assigement1.cpp(55,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aya-pc\Desktop\Graphics\Assigement1\Assigement1\Assigement1.cpp(105,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Assigement1.vcxproj -> C:\Users\Aya-pc\Desktop\Graphics\Assigement1\Debug\Assigement1.exe
